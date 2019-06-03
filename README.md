@@ -2,9 +2,9 @@
 scraping challenge
 
 ## Requirement
-jq - brew install jq
-curl (if not already) - brew install curl
-node and npm
+jq - brew install jq<br />
+curl (if not already) - brew install curl<br />
+node and npm<br />
 
 ## How to Run
 1. install npm or yarn requirements with npm -i or yarn
